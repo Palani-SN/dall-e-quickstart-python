@@ -28,4 +28,4 @@
 
 - click **Download** to save the Image
 
-![](https://github.com/Palani-SN/dall-e-quickstart-python/blob/main/images/ResponseImage.JPG?raw=true)
+![](https://github.com/Palani-SN/dall-e-quickstart-python/blob/main/images/ResponseImage.png?raw=true)
